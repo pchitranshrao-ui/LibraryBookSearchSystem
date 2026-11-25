@@ -1,0 +1,6 @@
+id,title,author,category,year,available
+B001,The Pragmatic Programmer,Andrew Hunt,Technology,1999,true
+B002,Clean Code,Robert C Martin,Technology,2008,true
+B003,Algorithms,Robert Sedgewick,Computer Science,2011,false
+B004,The Hobbit,J R R Tolkien,Fantasy,1937,true
+B005,Design of Everyday Things,Don Norman,Design,1988,true
